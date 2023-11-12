@@ -24,3 +24,9 @@
   flex-basis: 47%;
   background: #231e20;
 }
+
+.gallery img {
+  width: 100%;
+  display: block;
+  padding-top: 100px;
+}

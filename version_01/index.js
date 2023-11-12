@@ -3,6 +3,9 @@ let btn = document.getElementsByClassName("btn");
 
 btn[0].onclick = function () {
   productImg.src = "images/image1.png";
+  for (let bt of btn) {
+    bt.classList.remove("active");
+  }
 };
 
 btn[1].onclick = function () {

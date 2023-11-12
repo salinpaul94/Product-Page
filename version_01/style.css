@@ -167,3 +167,9 @@ form button {
   box-shadow: 0 10px 10px rgba(85, 64, 240, 0.25);
   cursor: pointer;
 }
+
+.controls {
+  position: absolute;
+  bottom: 40px;
+  right: 20px;
+}

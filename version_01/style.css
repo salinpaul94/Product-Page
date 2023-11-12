@@ -19,3 +19,8 @@
   max-width: 750px;
   display: flex;
 }
+
+.gallery {
+  flex-basis: 47%;
+  background: #231e20;
+}

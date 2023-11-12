@@ -6,6 +6,7 @@ btn[0].onclick = function () {
   for (let bt of btn) {
     bt.classList.remove("active");
   }
+  this.classList.add("active");
 };
 
 btn[1].onclick = function () {

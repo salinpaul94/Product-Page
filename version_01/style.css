@@ -124,3 +124,7 @@
 .color-4 {
   background: pink;
 }
+
+.color-select input {
+  display: none;
+}
